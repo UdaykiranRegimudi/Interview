@@ -1,10 +1,16 @@
-# Node
+# Node modules
 node_modules/
-dist/
-.env
 
-# React
+# Build folders
 build/
+dist/
+
+# Environment
+.env
 
 # Logs
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
